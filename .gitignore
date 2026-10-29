@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Dados gerados pelo inventário
+inventario/
+*.docx
+*.xlsx
+*.log
+
+# IDEs e configurações locais
+.vscode/
+.idea/
+.agents/
